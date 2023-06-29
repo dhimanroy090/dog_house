@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "breed": "Labrador Retriever",
+      "image": "https://images.unsplash.com/photo-1561037404-61cd46aa615b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZG9nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "origin": "Canada",
+      "size": "Large",
+      "temperament": "Friendly, Outgoing, Even Tempered",
+      "life_span": "10-12 years"
+    },
+    {
+      "id": 2,
+      "breed": "German Shepherd",
+      "image": "https://plus.unsplash.com/premium_photo-1677542200581-6fc54d55facd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGRvZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "origin": "Germany",
+      "size": "Large",
+      "temperament": "Loyal, Courageous, Confident",
+      "life_span": "9-13 years"
+    },
+    {
+      "id": 3,
+      "breed": "Golden Retriever",
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZG9nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "origin": "Scotland",
+      "size": "Large",
+      "temperament": "Intelligent, Friendly, Devoted",
+      "life_span": "10-12 years"
+    },
+    {
+      "id": 4,
+      "breed": "Bulldog",
+      "image": "https://plus.unsplash.com/premium_photo-1677542200557-3c6856cc98b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGRvZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "origin": "England",
+      "size": "Medium",
+      "temperament": "Docile, Willful, Friendly",
+      "life_span": "8-10 years"
+    },
+    {
+      "id": 5,
+      "breed": "Poodle",
+      "image": "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGRvZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "origin": "Germany, France",
+      "size": "Varies",
+      "temperament": "Intelligent, Alert, Active",
+      "life_span": "10-18 years"
+    },
+    {
+      "id": 6,
+      "breed": "Poodless",
+      "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGRvZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "origin": "Germany, France",
+      "size": "Varies",
+      "temperament": "Intelligent, Alert, Active",
+      "life_span": "10-18 years"
+    }
+  ]
